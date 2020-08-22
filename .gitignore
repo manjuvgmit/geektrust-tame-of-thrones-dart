@@ -1,0 +1,30 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+
+# Conventional directory for build outputs
+build/
+
+# Directory created by dartdoc
+doc/api/
+
+# Ignore intellij files except run configurations
+codeStyles/
+compiler.xml
+gradle.xml
+jarRepositories.xml
+libraries/
+misc.xml
+modules.xml
+uiDesigner.xml
+workspace.xml
+.idea/modules/*
+.idea/vcs.xml
+out/
+*.iml
+**/*.iml
+
+.idea/
+
+pubspec.lock
+analysis_options.yaml
